@@ -1,1 +1,2 @@
-# Econophysics Course Assignments - Fall 2024
+# Econophysics - Fall 2024
+Assignments and reports.
